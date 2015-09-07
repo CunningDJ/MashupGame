@@ -1,0 +1,3 @@
+from classes.ninja import Ninja
+from classes.brute import Brute
+from classes.commando import Commando
